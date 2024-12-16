@@ -1,0 +1,24 @@
+STYLES.CSS
+BODY{
+	background-color: powderblue;
+}
+H1{
+	color:green ;
+}
+P{
+	color: pink;
+}
+#img{
+	margin-left: 80%;
+}
+img{
+	border-radius: 50px;
+}
+a{
+	text-decoration: none;
+}
+
+ul li{
+	display: inline-block;
+}
+
